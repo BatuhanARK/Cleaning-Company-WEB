@@ -26,5 +26,8 @@
     "noUnusedParameters": false,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src"]
+  "include": ["src"],
+  "compilerOptions": {
+    "ignoreDeprecations": "6.0"
+  }
 }
