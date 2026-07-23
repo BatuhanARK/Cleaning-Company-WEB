@@ -1,6 +1,21 @@
-# Temizlik Şirketi Sitesi
+# Cleaning Company Website
 
-Vite + React + TypeScript + Tailwind ile yapılmış statik site.
-Randevu formu, `/api/booking` adlı bir Vercel serverless function üzerinden
-[Resend](https://resend.com) ile doğrudan şirket e-postasına mail atar. Hiçbir müşteri verisi
-veritabanında tutulmaz.
+Modern cleaning company website built with React, Vite and Tailwind CSS.
+
+## Live Demo
+
+https://cleaning-company-web.vercel.app
+
+## Tech Stack
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Vercel
+- Resend
+
+## Installation
+
+npm install
+npm run dev
