@@ -25,10 +25,10 @@ export function Hero({ onBook }: HeroProps) {
           </div>
 
           <h1 className="mt-6 text-4xl sm:text-5xl lg:text-6xl font-bold tracking-tight text-white leading-[1.08] animate-fade-up delay-100">
-            Temiz mekanlar.
+            Temizlik, İş İstihdamı
             <br />
             <span className="bg-gradient-to-r from-teal-300 to-cyan-300 bg-clip-text text-transparent">
-              Aydınlık günlar.
+              ve Aracılık Hizmetleri
             </span>
           </h1>
 
