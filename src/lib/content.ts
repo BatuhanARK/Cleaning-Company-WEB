@@ -1,5 +1,5 @@
 export const company = {
-  name: 'Nüans Ekip Yönetim ve Aracılık Hizmetleri',
+  name: 'Nüans Ekip Yönetim',
   tagline: 'Temizlik, İş İstihdamı ve Aracılık Hizmetleri',
   phone: '0 555 258 13 76',
   phoneHref: 'tel:+905552581376',
